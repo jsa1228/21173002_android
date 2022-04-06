@@ -8,3 +8,9 @@
 
 # 4주차(2022-03-29)
 <img width="" height="" src="./pic/4주차_메시지.png"></img>
+
+# 5주차(2022-04-05)
+<img width="" height="" src="./pic/5주차_activity_main.png"></img>
+<img width="" height="" src="./pic/5주차_mainactivity.png"></img>
+<img width="" height="" src="./pic/5주차_cat.png"></img>
+<img width="" height="" src="./pic/5주차_dog.png"></img>
