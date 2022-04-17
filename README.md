@@ -14,3 +14,8 @@
 <img width="" height="" src="./pic/5주차_mainactivity.png"></img>
 <img width="" height="" src="./pic/5주차_cat.png"></img>
 <img width="" height="" src="./pic/5주차_dog.png"></img>
+
+# 6주차(2022-04-12)
+<img width="" height="" src="./pic/6주차_width.png"></img>
+<img width="" height="" src="./pic/6주차_height.png"></img>
+
